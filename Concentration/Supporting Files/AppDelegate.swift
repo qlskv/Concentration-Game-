@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Concentration
 //
-//  Created by 이순빈 on 2021/06/25.
+//  Created by bin on 2021/06/25.
 //
 
 import UIKit
